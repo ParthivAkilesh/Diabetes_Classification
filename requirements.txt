@@ -3,3 +3,6 @@ pickle-mixin==1.0.2
 scikit-learn==1.0.2
 scipy==1.7.3
 streamlit==1.4.0
+gunicorn==20.0.4
+numpy==1.18.1
+Flask==1.1.1
